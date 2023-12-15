@@ -1,3 +1,4 @@
+// ssr 服务端渲染 csr 客户端渲染
 const fs = require('node:fs')
 const { JSDOM } = require('jsdom')
 
